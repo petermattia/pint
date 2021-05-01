@@ -4,6 +4,7 @@ Contributing to Pint
 ====================
 
 Pint uses (and thanks):
+
 - github_ to host the code
 - travis_ to test all commits and PRs.
 - coveralls_ to monitor coverage test coverage
